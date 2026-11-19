@@ -12,7 +12,7 @@ My user base consists of budget-conscious PC gamers deciding which Steam game to
 My app answers three questions:
 1. **Sub-question 1:** Which games are good and match the gamer’s preferred genre and budget?
 2. **Sub-question 2:** Which matching games offer the most average playtime per dollar?
-3. **Sub-question 3:** Which matching games can be ran on the gamer’s computer? 
+3. **Sub-question 3:** Which matching games still have enough players online to be worth buying?
 
 ## Data
 The [Steam Games Dataset](https://www.kaggle.com/datasets/artermiloff/steam-games-dataset) on Kaggle, collected in March 2025. The dataset is shared under the MIT License by its creator, artermiloff. This repo uses `steam_games.csv`, a smaller file made for the course: the 1,000 games with the most reviews.
