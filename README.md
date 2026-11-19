@@ -19,7 +19,7 @@ The [Steam Games Dataset](https://www.kaggle.com/datasets/artermiloff/steam-game
 
 ## Built with
 - Python and pandas, in Google Colab
-- Coming soon: my outside tool
+- My outside tool: Gemini
 
 ## How to run it
 Coming soon
